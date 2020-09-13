@@ -1,7 +1,5 @@
 //Mars Rover Exercise
 
-//(BONUS 4: OBSTACLES MISSING!)
-
 // ======================
 // Rover, Grid and Obsticle
 
